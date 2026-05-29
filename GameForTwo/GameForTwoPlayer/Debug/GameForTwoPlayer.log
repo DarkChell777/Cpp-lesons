@@ -1,0 +1,15 @@
+﻿  GameForTwoPlayer.cpp
+C:\Програмирование, работы, тесты\cpp\GameForTwoPlayer\GameForTwoPlayer.cpp(127,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Програмирование, работы, тесты\cpp\GameForTwoPlayer\GameForTwoPlayer.cpp(294,48): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "RGB"
+C:\Програмирование, работы, тесты\cpp\GameForTwoPlayer\GameForTwoPlayer.cpp(443,47): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Програмирование, работы, тесты\cpp\GameForTwoPlayer\GameForTwoPlayer.cpp(466,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Програмирование, работы, тесты\cpp\GameForTwoPlayer\GameForTwoPlayer.cpp(467,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Програмирование, работы, тесты\cpp\GameForTwoPlayer\GameForTwoPlayer.cpp(472,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Програмирование, работы, тесты\cpp\GameForTwoPlayer\GameForTwoPlayer.cpp(473,34): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Програмирование, работы, тесты\cpp\GameForTwoPlayer\GameForTwoPlayer.cpp(539,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Програмирование, работы, тесты\cpp\GameForTwoPlayer\GameForTwoPlayer.cpp(540,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Програмирование, работы, тесты\cpp\GameForTwoPlayer\GameForTwoPlayer.cpp(647,63): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Програмирование, работы, тесты\cpp\GameForTwoPlayer\GameForTwoPlayer.cpp(648,64): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+  GameForTwoPlayer.vcxproj -> C:\Програмирование, работы, тесты\cpp\GameForTwoPlayer\Debug\GameForTwoPlayer.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
